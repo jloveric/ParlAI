@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cc061a84b639d778496d9e6bcbafbdd81d4772cb274ad339a3dce62c83283221"
+            "sha256": "991a37d8af8ab0a0de9f7e4a936dd87af5a3989a797a34d545956b60cb7c5c3b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -695,6 +695,9 @@
                 "sha256:f242a81d423f59617a8e5cf16f5d4d74e28ee9a66f9e5b637a18082991db5a9a"
             ],
             "version": "==1.1.4"
+        },
+        "subword-nmt": {
+            "git": "https://github.com/rsennrich/subword-nmt.git"
         },
         "tokenizers": {
             "hashes": [

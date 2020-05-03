@@ -46,3 +46,6 @@ torch = "*"
 
 [requires]
 python_version = "3.8"
+
+[packages.subword-nmt]
+git = "https://github.com/rsennrich/subword-nmt.git"
